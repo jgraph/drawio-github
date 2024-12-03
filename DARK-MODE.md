@@ -4,6 +4,10 @@
 
 In v26.0.0 and later, the ``light-dark()`` color function is used in SVG with ``color-scheme: light dark`` in the style. This will use the color scheme of the containing system, page or tag, eg. ``<img src="img.svg" style="color-scheme: dark;">``.
 
+---
+
+Information for SVG exported with versions prior to v26.0.0. below this line.
+
 ## CSS prefers-color-scheme Media Feature
 
 To support dark mode in SVG, add the following CSS to the SVG defs section:
