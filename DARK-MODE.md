@@ -4,6 +4,10 @@
 
 In v26.0.0 and later, the ``light-dark()`` color function is used in SVG with ``color-scheme: light dark`` in the style. This will use the color scheme of the containing system, page or tag, eg. ``<img src="img.svg" style="color-scheme: dark;">``.
 
+<a href="https://raw.githubusercontent.com/jgraph/drawio-github/master/diagram-new-light-dark.svg" target="_blank">Here</a> is an example of the new SVG dark mode that will render in dark mode in GitHub markdown depending on your system setting:
+
+![Diagram with new system dark mode](diagram-new-light-dark.svg)
+
 ---
 
 Information for SVG exported with versions prior to v26.0.0. below this line.
